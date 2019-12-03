@@ -1,0 +1,12 @@
+{
+  "name": "aq1",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "private": true,
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.1"
+  },
+  "dependencies": {}
+}
