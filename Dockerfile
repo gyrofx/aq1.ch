@@ -1,3 +1,3 @@
 FROM nginx:1.16-alpine
 
-COPY ./app /var/www/html/ 
+COPY ./app /usr/share/nginx/html
