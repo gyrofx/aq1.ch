@@ -27,7 +27,7 @@ Hier die wichtigsten Infos zu unseren Neujahrs-Tagen im Flamberghuis auf dem Sto
 
 ### Zmorge
 
-Iris und Felix sind für das Zmorge verantwortlich
+Iris und Felix sind für das Zmorge verantwortlich. Es hat zwei Nespresso Machienen, bitte nehmt die Kapseln für euren Kaffee selber mit.
 
 ### Zmittag
 
