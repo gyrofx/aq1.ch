@@ -82,7 +82,7 @@ Der Stoos liegt in der Zentralschweiz bei Schwyz. Von Schwyz (SZ) fährt man mit
 Gruppentarife oder den Kauf von Tageskarten prüfen (Stoosbahnen sind im Skipass inbegriffen).
 
 … und einem Spaziergang zum Haus
-Von den Zubringerbahnen aus gelangt man in rund 20-30 Minuten zu Fuss zum Flamberghuis.  Für die Abkürzung über die Wiese genau an der angegebenen Stelle bitte hintereinander gehen. Je nach Wetterverhältnissen sind gute Schuhe zu empfehlen (die sind eigentlich immer zu empfehlen).
+Von den Zubringerbahnen aus gelangt man in rund 20-30 Minuten zu Fuss zum Flamberghuis. Je nach Wetterverhältnissen sind gute Schuhe zu empfehlen (die sind eigentlich immer zu empfehlen).
 
 ### Mit dem Auto
 
