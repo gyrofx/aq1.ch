@@ -1,0 +1,22 @@
+languageCode = "de-ch"
+title = "aq1"
+
+author = "Felix Eichenberger"
+copyright = "Copyright© 2024, aq1, all rights reserved."
+
+
+[params]
+    name = "aq1"
+    description = "aq1"
+
+    github_user = "gyrofx"
+    github_repo = "https://github.com/gyrofx/aq1.ch"
+    github_banner = true
+
+    favicon = "favicon.ico"
+
+# syntax highlight settings
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+  [markup.highlight]
+    style = "dracula"

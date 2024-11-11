@@ -1,12 +1,31 @@
 {
-  "name": "aq1",
-  "scripts": {
-    "start": "nodemon server.js"
-  },
-  "private": true,
-  "devDependencies": {
-    "express": "^4.17.1",
-    "nodemon": "^2.0.1"
-  },
-  "dependencies": {}
+    "name": "ganymed",
+    "version": "1.0.0",
+    "description": "Website for the Ganymed project built with hugo",
+    "main": "index.js",
+    "author": "Felix Eichenberger <feix.eichenberger@gmail.com>",
+    "license": "MIT",
+    "browserslist": [
+        "last 1 version",
+        "> 1%",
+        "maintained node versions",
+        "not dead"
+    ],
+    "scripts": {
+        "start": "hugo serve --disableFastRender",
+        "build": "hugo version && hugo"
+    },
+    "dependencies": {
+        "@tailwindcss/aspect-ratio": "^0.x",
+        "@tailwindcss/forms": "^0.x",
+        "@tailwindcss/typography": "^0.5.x",
+        "autoprefixer": "^10.x",
+        "daisyui": "^4.12.10",
+        "lodash": "^4.17.21",
+        "postcss": "^8.x",
+        "postcss-cli": "^11.x",
+        "postcss-combine-duplicated-selectors": "^10.0.3",
+        "postcss-sort-media-queries": "^5.2.0",
+        "tailwindcss": "^3.x"
+    }
 }
