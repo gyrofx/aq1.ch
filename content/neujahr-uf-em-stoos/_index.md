@@ -64,5 +64,29 @@ Karte: https://s.geo.admin.ch/p6kkqyldiobi
 
 Es hat 5 Zimmer plus einen grossen Massenschlag, es sollte also klappen, dass jede Familie ein Zimmer für sich hat. Man braucht einen Schlafsack. Es hat auch Wolldecken (die kratzigen), darum geht auch ein Hüttenschlafsack. Das Haus wird mit dem Holzofen beheizt und es ist schön warm. 
 
+### Wasser/Elektrizität
+
+Das Quellwasser kann als Trinkwasser benützt werden. Pro Boilertank können etwa 25 Personen (sparsam) duschen, danach 1–1.5h warten. An den Installationen darf nichts verändert werden.
+
+### Kommunikation
+
+Nehmen Sie Ihr Mobiltelefon mit, 4G wird unterstützt. Das WLAN reicht bis in den Aufenthaltsraum und kann im Sitzungszimmer oberhalb der Türe zurückgesetzt werden.
+
+
+## Anreise
+
+### Mit em ÖV
+
+Der Stoos liegt in der Zentralschweiz bei Schwyz. Von Schwyz (SZ) fährt man mit dem Bus Richtung Muotatal zur Stoosbahn Talstation, von wo aus der Stoos mit einer spektakulären Standseilbahn erreichbar ist. Alternativ gelangt man auch von Brunnen aus mit dem Bus nach Morschach, wo eine sehr kleine Luftseilbahn auf den Stoos führt. Auf den Stoosbahnen ist das Generalabonnement (GA) gültig.
+
+Gruppentarife oder den Kauf von Tageskarten prüfen (Stoosbahnen sind im Skipass inbegriffen).
+
+… und einem Spaziergang zum Haus
+Von den Zubringerbahnen aus gelangt man in rund 20-30 Minuten zu Fuss zum Flamberghuis.  Für die Abkürzung über die Wiese genau an der angegebenen Stelle bitte hintereinander gehen. Je nach Wetterverhältnissen sind gute Schuhe zu empfehlen (die sind eigentlich immer zu empfehlen).
+
+### Mit dem Auto
+
+Der Stoos ist autofrei. Man muss auf jeden Fall mit der Stoosbahn hoch. Bei der Talstation gibt es ein [grosses Parkhaus](https://www.stoos.ch/de/stories/parkieren). 
+
 
 Wird cool, mer freued eus.
