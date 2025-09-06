@@ -1,6 +1,6 @@
 ---
 author: Felix Eichenberger
-title: Neujahr uf em Stoos
+title: Neujahr uf em Stoos 2025/2026
 date: 2024-11-10
 type: stoos
 ---
@@ -8,19 +8,17 @@ type: stoos
 
 Hier die wichtigsten Infos zu unseren Neujahrs-Tagen im Flamberghuis auf dem Stoos.
 
-**30.12.2024 - 3.1.2025**
+**30.12.2024 - 2.1.2025**
 
 ## Wer ist dabei
 
-- Winters (Sybille, Philipp, Mila, Sophie, Elin)
-- Eichenberger (Iris, Felix, Timo)
-- Martinellis (Miriam, Daniel, Lino)
-- Marcel (?)
-- Sämi (?)
+- Winters
+- Eichenberger
+
 
 ## Kosten 
 
-- ca. 20.- pro Person und Nacht, je nach Anzahl Personen 
+- ca. 25.- pro Person und Nacht, je nach Anzahl Personen 
 - ein Znacht für alle
 
 ## Essen und Einkaufen
@@ -45,7 +43,7 @@ Kocht lieber einfach und nicht zu kompliziert 😀
 
 ### Einkaufen
 
-Auf dem Stoos hat es keinen Laden (mehr). Nur noch einen Toursitenshop mit ein paar Produkten. Wir müssen also alles von zu Hause mitbringen oder in Schwyz einkaufen.
+Auf dem Stoos hat es keinen Laden (mehr). Nur noch einen Toursitenshop mit ein paar Produkten (teuer, aber das nötigste ist schon da). Wir müssen also alles von zu Hause mitbringen oder in Schwyz einkaufen.
 
 
 ## Flamberghuis
@@ -87,6 +85,8 @@ Von den Zubringerbahnen aus gelangt man in rund 20-30 Minuten zu Fuss zum Flambe
 ### Mit dem Auto
 
 Der Stoos ist autofrei. Man muss auf jeden Fall mit der Stoosbahn hoch. Bei der Talstation gibt es ein [grosses Parkhaus](https://www.stoos.ch/de/stories/parkieren). 
+
+Falls ihr mit dem Auto kommt unbedingt einen Parkplatz reservieren: [Ticket bucheen](https://store.stoos.ch/stoos_de/parking/stoos-axess-parking)
 
 
 Wird cool, mer freued eus.
