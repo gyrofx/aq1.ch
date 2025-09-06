@@ -16,3 +16,4 @@ RUN yarn build
 FROM nginx:alpine
 
 COPY --from=build /app/public /usr/share/nginx/html
+COPY ./assets/images/bg.jpg /usr/share/nginx/html/images/
