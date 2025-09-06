@@ -8,7 +8,7 @@ type: stoos
 
 Hier die wichtigsten Infos zu unseren Neujahrs-Tagen im Flamberghuis auf dem Stoos.
 
-**30.12.2024 - 2.1.2025**
+**30.12.2025 - 2.1.2026**
 
 ## Wer ist dabei
 
